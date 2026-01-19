@@ -106,5 +106,5 @@ Om Jadhav
 Computer Engineering Student
 Cybersecurity Enthusiast
 
-##⭐ Support
+## ⭐ Support
 If you found this useful, give the repository a ⭐
